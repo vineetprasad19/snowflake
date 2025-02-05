@@ -40,6 +40,6 @@
 
 **SQL Script:** [snowflake_stored_procedure_real_world_scenario](https://github.com/vineetprasad19/snowflake/blob/main/snowflake_stored_procedure_real_world_scenario.sql)
 
-**SQL Script:** [snowflake_stored_procedure_use_case_2]([https://github.com/vineetprasad19/snowflake/blob/main/](https://github.com/vineetprasad19/snowflake/blob/main/snowflake_stored_procedure_use_case_2.sql))
+**SQL Script:** [snowflake_stored_procedure_use_case_2]([https://github.com/vineetprasad19/snowflake/blob/main/](https://github.com/vineetprasad19/snowflake/blob/main/snowflake_stored_procedure_use_case_2.sql)
 
 **SQL Script:** [snowflake_windows_function_examples](https://github.com/vineetprasad19/snowflake/blob/main/snowflake_windows_function_examples.sql)
